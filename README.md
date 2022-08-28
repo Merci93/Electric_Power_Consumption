@@ -1,7 +1,7 @@
 # Electric_Power_Consumption
 Tetouan is a city located in the north of Morocco which occupies an area of around 10375 km² and its
-population is about 550.374 inhabitants, according to the last Census of 2014, and is increasing rapidly,
-approximately 1.96% annually. Since it is located along the Mediterranean Sea, its weather is mild and
+population is about 400,000 inhabitants, according to the last Census of 2017, and is increasing rapidly,
+approximately 1.78% annually. Since it is located along the Mediterranean Sea, its weather is mild and
 rainy in the winter, hot and dry during the summer months.  Morocco's per capita energy consumption is
 0.56 toe (around 42% below the North Africa average), including around 900 kWh of electricity (38% below
 the regional average) (2020). The progression of total energy consumption slowed down between 2010 and
