@@ -30,3 +30,14 @@ and macrofauna.
 7. Zone 1 Power Consumption
 8. Zone 2 Power Consumption
 9. Zone 3 Power Consumption
+
+# Tasks
+1. Assess data
+2. Separate features to enable power consumption prediction in the three zones.
+3. Build model to predict power consumption
+
+# Models
+1. Ridge
+2. Decision Tree
+3. Random Forest
+4. Gradient Boosting
