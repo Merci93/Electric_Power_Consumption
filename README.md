@@ -37,7 +37,6 @@ and macrofauna.
 3. Build model to predict power consumption
 
 # Models
-1. Ridge
-2. Decision Tree
-3. Random Forest
-4. Gradient Boosting
+1. Decision Tree
+2. Random Forest
+3. Gradient Boosting
