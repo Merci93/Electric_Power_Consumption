@@ -39,3 +39,6 @@ and macrofauna.
 # Models
 1. Random Forest
 2. Gradient Boosting
+
+# Results
+From the model evaluation results using mean squared absolute error and r2_score, the **Random Forest** model performed better than the Gradient Boosting model in teh three zones. Though the Gradient Boosting performed higher in Zone 3 than in Zones 1 and 2.
